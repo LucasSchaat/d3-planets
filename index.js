@@ -1,6 +1,6 @@
 // establish variables
-const w = window.innerWidth;
-const h = window.innerWidth;
+const w = 7000;
+const h = 7000;
 const x = w / 2;
 const y = h / 2;
 const t0 = new Date().setHours(0, 0, 0, 0);
